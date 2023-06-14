@@ -4,13 +4,22 @@ pipeline {
         stage('build') {
             steps {
                 echo "Build"
-            }
-        }
-<<<<<<< HEAD
+   
+
     }
 ddfdacddcc:}
 aadada
 =======
    Hello this is branch1 : }
 }
+
+=======
+   Hello this is branch1 : }
+}
+=======
+    }
+ddfdacddcc:}
+aadada
+qwqee
+this is the new code :cdcda
 
